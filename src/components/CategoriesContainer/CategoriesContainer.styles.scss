@@ -1,0 +1,6 @@
+.categories-container {
+    width: 100%; // the width is 100% of its parent
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
